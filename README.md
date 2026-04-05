@@ -18,6 +18,7 @@ If you want a simple non-technical walkthrough, see [user-guide.md](./user-guide
 ```text
 .
 ├── README.md
+├── user-guide.md
 ├── scripts
 │   └── install.sh
 └── skills
