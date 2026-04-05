@@ -2,6 +2,8 @@
 
 A shareable Codex skill for generating a daily Indian stock market briefing from the most recent completed NSE/BSE trading session.
 
+If you want a simple non-technical walkthrough, see [user-guide.md](./user-guide.md).
+
 ## What it does
 
 - finds the last actual trading day before today
