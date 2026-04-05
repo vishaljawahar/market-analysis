@@ -1,0 +1,7 @@
+interface:
+  display_name: "India Market Daily"
+  short_description: "Daily NSE/BSE market setup and stock ideas"
+  default_prompt: "Use $india-market-daily to prepare today's Indian market briefing from the latest completed trading session."
+
+policy:
+  allow_implicit_invocation: false
